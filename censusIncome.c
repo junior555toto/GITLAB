@@ -59,9 +59,9 @@ int main(int argc, char* argv[])
      */
     if (argc != 2)
        {
-       fprintf(stderr,"Incorrect command line arguments\n");
+       fprintf(stderr,"Incorrect command line arguments 555+\n");
        fprintf(stderr,"  Usage:\n");
-       fprintf(stderr,"    ./censusIncome [inputfile]\n\n");
+       fprintf(stderr,"    ./censusIncome Blaaa [inputfile]\n\n");
        exit(1);
        }
     strcpy(inFilename,argv[1]);

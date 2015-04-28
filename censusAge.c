@@ -25,7 +25,7 @@ int validGender(char* genderstring);
  */
 int main(int argc, char* argv[])
 {
-    char inFilename[128]; /* name of input file - from cmd line*/
+    char inputFilename[128]; /* name of input file - from cmd line*/
     char outFilename[128];/* name of output file - constructed */
     FILE* pIn = NULL;     /* input file pointer */
     FILE* pOut = NULL;    /* output file point */
