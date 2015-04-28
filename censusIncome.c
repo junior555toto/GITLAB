@@ -19,6 +19,10 @@
  * for men and women. This makes it easier to pass
  * all this information around to functions 
  */
+
+
+ //dspfjsdpofopdsjfsdjfopdsjfopjsdfopdsjfopsdjfopdsjfopdsjfopjsdopfjdsfo
+ //TEMP COMMENT NA SUD
 typedef struct
 {
     int countM;      /* number of male records */
