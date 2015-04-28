@@ -13,6 +13,9 @@
 #define FALSE 0
 #define TRUE 1
 
+ int YOLO1;
+ int YOLO2;
+
 /* This structure type is NOT used to store individual
  * records. Instead, it groups together the various
  * variables we need to calculate the min,max and mean
